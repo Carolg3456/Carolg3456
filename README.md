@@ -38,5 +38,5 @@ Aplicar ciencia de datos para potenciar resultados en ventas, optimizar embudos 
 ---
 
 📫 **Conecta conmigo:**  
-[LinkedIn](https://www.linkedin.com/in/carolinacaycho)  
+[LinkedIn](https://www.linkedin.com/in/carolina-caycho)  
 ✉️ carolinacaychog@gmail.com
