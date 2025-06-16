@@ -1,11 +1,11 @@
 ## Hi there 👋
+# 👩‍💼 Carolina Caycho – Data Science y Team Leader Strategic Sales
 
 <!--
 **Carolg3456/Carolg3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p align="center">
   <img src="banner-carolina.png" alt="Carolina Caycho - High-Value Sales Leader | Data Science in Training" width="100%" />
 </p>
-# 👩‍💼 Carolina Caycho – Data Science y Team Leader Strategic Sales
 
 ¡Hola! Soy Carolina, una profesional en Administración de Empresas con más de 10 años de experiencia comercial B2B y B2C, liderazgo de equipos comerciales internacionales y negociación de alto valor en sectores como banca, EdTech y Fintech.
 
