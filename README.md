@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 💫
 # 👩‍💼 Carolina Caycho – Data Science y Team Leader Strategic Sales
 
 <!--
