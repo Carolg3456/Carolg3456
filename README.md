@@ -33,9 +33,9 @@ Aplicar ciencia de datos para potenciar resultados en ventas, optimizar embudos 
 ---
 
 ## 📂 Proyectos destacados
-🔹 [Análisis Exploratorio de Ventas LATAM](https://github.com/carolinacaycho/ventas-latam)  
-🔹 [Predicción de abandono de clientes (churn)](https://github.com/carolinacaycho/proyecto-churn)  
-🔹 [Dashboard de KPIs comerciales con Streamlit](https://github.com/carolinacaycho/kpi-dashboard)
+🔹 [Análisis Exploratorio de Ventas EE.UU.](https://github.com/Carolg3456/proyecto_instacart.git)
+🔹 [Predicción de abandono de clientes (churn)](https://github.com/Carolg3456/proyecto_megaline.git))
+🔹 [Dashboard de KPIs comerciales con Streamlit](https://github.com/Carolg3456/vehicles_dashboard.git)
 
 ---
 
