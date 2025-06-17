@@ -7,7 +7,7 @@
   <img src="banner-carolina.png" alt="Carolina Caycho - High-Value Sales Leader | Data Science in Training" width="100%" />
 </p>
 
-¡Hola! Soy Carolina, una profesional en Administración de Empresas con más de 10 años de experiencia comercial B2B y B2C, liderazgo de equipos comerciales internacionales y negociación de alto valor en sectores como banca, EdTech y Fintech. En la actualidad me desempeño como Strategic Team Leader en una compañia canadiense 🇨🇦.
+¡Hola! Soy Carolina, una profesional en Administración de Empresas con más de 10 años de experiencia comercial B2B y B2C, liderazgo de equipos comerciales internacionales y negociación de alto valor en sectores como banca, EdTech y Fintech. En la actualidad me desempeño como Strategic Team Leader en una compañia canadiense 🍁.
 
 🎯 Actualmente me especializo en **Ciencia de Datos**, con un enfoque práctico en:
 - Análisis de KPIs comerciales
