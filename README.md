@@ -9,6 +9,15 @@
 
 ¡Hola! Soy Carolina, una profesional en Administración de Empresas con más de 10 años de experiencia comercial B2B y B2C, liderazgo de equipos comerciales internacionales y negociación de alto valor en sectores como banca, EdTech y Fintech. En la actualidad, me desempeño como Strategic Team Leader en una compañia canadiense 🍁.
 
+🛠️ Herramientas y tecnologías:<br><br>
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Pandas](https://img.shields.io/badge/Pandas-3DDC84?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-3DDC84?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)
+![PostgreSQL](https://img.shields.io/badge/postgresql-3DDC84?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
+![Scikit-learn](https://img.shields.io/badge/Scikitlearn-3DDC84?style=for-the-badge&logo=Scikitlearn&logoColor=white&labelColor=101010)
+![Seaborn](https://img.shields.io/badge/Seaborn-3DDC84?style=for-the-badge&logo=Seaborn&logoColor=white&labelColor=101010)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3DDC84?style=for-the-badge&logo=Matplotlib&logoColor=white&labelColor=101010)
+
 🎯 Actualmente me especializo en **Ciencia de Datos**, con un enfoque práctico en:
 - Análisis de KPIs comerciales
 - Automatización de procesos de ventas
@@ -40,5 +49,5 @@ Aplicar ciencia de datos para potenciar resultados en ventas, optimizar embudos 
 ---
 
 📫 **Conecta conmigo:**  
-[LinkedIn](https://www.linkedin.com/in/carolina-caycho)  
-✉️ carolinacaychog@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-carolina_caycho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carolina-caycho/)
+- ✉️ carolinacaychog@gmail.com
