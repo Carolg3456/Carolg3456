@@ -1,5 +1,5 @@
 ## Hi there 💫
-# 👩‍💼 Carolina Caycho – Data Science y Team Leader Strategic Sales
+# 👩‍💼 Carolina Caycho – Sales Strategy & Revenue Operations Lead | Data-Driven Commercial Leadership
 
 <!--
 **Carolg3456/Carolg3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
