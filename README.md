@@ -1,53 +1,99 @@
-## Hi there 💫
-# 👩‍💼 Carolina Caycho – Sales Strategy & Revenue Operations Lead | Data-Driven Commercial Leadership
+## Hi there 👋
 
-<!--
-**Carolg3456/Carolg3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# 👩‍💼 Carolina Caycho  
+## Sales Strategy & Revenue Operations Lead | Data-Driven Commercial Leadership
+
 <p align="center">
-  <img src="banner-carolina.png" alt="Carolina Caycho - High-Value Sales Leader | Data Science in Training" width="100%" />
+  <img src="banner-carolina.png" alt="Carolina Caycho - Data-Driven Commercial Leadership" width="100%" />
 </p>
 
-¡Hola! Soy Carolina, una profesional en Administración de Empresas con más de 10 años de experiencia comercial B2B y B2C, liderazgo de equipos comerciales internacionales y negociación de alto valor en sectores como banca, EdTech y Fintech. En la actualidad, me desempeño como Strategic Team Leader en una compañia canadiense 🍁.
+---
 
-🛠️ Herramientas y tecnologías:<br><br>
-![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![Pandas](https://img.shields.io/badge/Pandas-3DDC84?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/Git-3DDC84?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)
-![PostgreSQL](https://img.shields.io/badge/postgresql-3DDC84?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
-![Scikit-learn](https://img.shields.io/badge/Scikitlearn-3DDC84?style=for-the-badge&logo=Scikitlearn&logoColor=white&labelColor=101010)
-![Seaborn](https://img.shields.io/badge/Seaborn-3DDC84?style=for-the-badge&logo=Seaborn&logoColor=white&labelColor=101010)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3DDC84?style=for-the-badge&logo=Matplotlib&logoColor=white&labelColor=101010)
+## 🇪🇸 Sobre mí
 
-🎯 Actualmente me especializo en **Ciencia de Datos**, con un enfoque práctico en:
-- Análisis de KPIs comerciales
-- Automatización de procesos de ventas
-- Visualización de datos para toma de decisiones estratégicas
-- Segmentación de clientes y predicción de churn
+Soy **líder comercial y estratega de revenue** con más de **10 años de experiencia en ventas consultivas B2B y B2C**, liderazgo de equipos internacionales y negociación de alto valor en **Banca, EdTech, Fintech y Tecnología**.
 
-📚 Estoy cursando el bootcamp de Data Science en **TripleTen**, una EdTech americana enfocada en la formación tecnológica aplicada al mercado laboral global.
+Mi diferencial es **integrar liderazgo comercial con capacidades técnicas en análisis de datos**, utilizando **Python, SQL, KPIs, visualización y modelado analítico** para **optimizar performance comercial, mejorar tasas de conversión y escalar ingresos de forma sostenible**.
+
+Trabajo de forma habitual con **datos comerciales reales**, diseñando indicadores de gestión, modelos de seguimiento del funnel, análisis de comportamiento de clientes y dashboards ejecutivos que respaldan la **toma de decisiones estratégicas**.
+
+Actualmente me desempeño como **Strategic Sales Team Leader** en una compañía canadiense 🇨🇦, liderando equipos remotos y estrategias de crecimiento basadas en datos.
 
 ---
 
-## 🧠 Habilidades técnicas
-- **Lenguajes:** Python, SQL
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn
-- **Herramientas:** Streamlit, Jupyter Notebook
-- **CRM & automatización:** HubSpot, Salesforce, Meta, ChatGPT
+## 🇬🇧 About me
+
+I am a **Sales Strategy and Revenue Operations leader** with over **10 years of experience in B2B and B2C consultative sales**, international team leadership, and high-value negotiations across **Banking, EdTech, Fintech, and Technology** sectors.
+
+My core strength is **combining commercial leadership with technical data capabilities**, applying **Python, SQL, KPIs, data visualization, and analytical modeling** to **optimize sales performance, improve conversion rates, and scale revenue sustainably**.
+
+I regularly work with **real commercial datasets**, building performance indicators, funnel analytics, customer behavior analysis, and executive dashboards to support **strategic, data-driven decision-making**.
+
+I currently work as a **Strategic Sales Team Leader** at a Canadian company 🇨🇦, leading remote teams and growth initiatives powered by data.
 
 ---
 
-## 🚀 Objetivo profesional
-Diseñar y escalar estrategias comerciales rentables, apoyadas en datos y modelado analítico, para impulsar decisiones de alto impacto, crecimiento sostenible y facilitar la vida de equipos y organizaciones.
+## 🛠️ Technical & Analytical Toolkit
+
+### Data Analysis & Modeling
+- **Python** (Pandas, NumPy, SciPy)
+- **Exploratory Data Analysis (EDA)**
+- **Statistical inference & hypothesis testing**
+- **Business-oriented Machine Learning** (segmentation, churn analysis, demand patterns)
+
+### Data Visualization & Decision Support
+- **Matplotlib, Seaborn**
+- **Streamlit** for interactive dashboards
+- Executive-ready visualizations for non-technical stakeholders
+
+### Data & Tools
+- **SQL / PostgreSQL**
+- **Jupyter Notebook**
+- **Git & GitHub**
+
+### Revenue & Commercial Analytics
+- KPI design and performance tracking
+- Funnel analysis & conversion optimization
+- Pricing and revenue analysis
+- Customer segmentation & behavioral insights
 
 ---
 
-## 📂 Proyectos destacados
-🔹 [Análisis Exploratorio de Ventas EE.UU](https://github.com/Carolg3456/proyecto_instacart.git)  
-🔹 [Predicción de abandono de clientes (churn)](https://github.com/Carolg3456/proyecto_megaline.git)  
-🔹 [Dashboard de KPIs comerciales con Streamlit](https://github.com/Carolg3456/vehicles_dashboard.git)
+## 📊 Focus areas
+
+- Data-driven sales strategy & revenue optimization  
+- Commercial performance analytics & forecasting  
+- Pricing strategy and demand analysis  
+- Customer behavior, retention & churn modeling  
+- Analytics-driven leadership and decision-making  
 
 ---
 
-📫 **Conecta conmigo:**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-carolina_caycho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carolina-caycho/)
-- ✉️ carolinacaychog@gmail.com
+## 🚀 Professional objective
+
+To **design, optimize, and scale revenue-driven commercial strategies**, supported by **data analysis, analytics, and business-oriented modeling**, enabling organizations to make **high-impact decisions, achieve sustainable growth, and empower high-performance teams**.
+
+---
+
+## 📂 Selected work (Business & Data Analytics)
+
+🔹 **Retail Customer Behavior Intelligence – Instacart (US)**  
+Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
+https://github.com/Carolg3456/retail_customer_behavior_intelligence_instacart_us  
+
+🔹 **Telecom Pricing & Revenue Analysis – Megaline**  
+Pricing optimization and revenue comparison using statistical inference  
+https://github.com/Carolg3456/telecom_pricing_revenue_analysis_megaline  
+
+🔹 **Vehicle Market Intelligence Dashboard (US)**  
+Interactive analytics for pricing and inventory decisions  
+https://github.com/Carolg3456/vehicle_market_intelligence_dashboard_us  
+
+---
+
+## 📫 Let’s connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina_Caycho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carolina-caycho/)  
+✉️ **carolinacaychog@gmail.com**
+
+---
