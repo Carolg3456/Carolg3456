@@ -4,7 +4,7 @@
 ## Sales Strategy & Revenue Operations Lead | Data-Driven Commercial Leadership
 
 <p align="center">
-  <img src="banner-carolina.png" alt="Carolina Caycho - Data-Driven Commercial Leadership" width="100%" />
+  <img src="banner_carolina_2.jpg" alt="Carolina Caycho - Data-Driven Commercial Leadership" width="100%" />
 </p>
 
 ---
