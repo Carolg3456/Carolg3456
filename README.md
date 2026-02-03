@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Objetivo profesional
-Aplicar ciencia de datos para potenciar resultados en ventas, optimizar embudos comerciales y liderar equipos con decisiones basadas en evidencia.
+Diseñar y escalar estrategias comerciales rentables, apoyadas en datos y modelado analítico, para impulsar decisiones de alto impacto, crecimiento sostenible y facilitar la vida de equipos y organizaciones.
 
 ---
 
